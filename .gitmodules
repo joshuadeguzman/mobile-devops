@@ -1,3 +1,6 @@
 [submodule "circleci_flutter"]
 	path = circleci_flutter
 	url = https://github.com/joshuadeguzman/circleci_flutter
+[submodule "semaphore-demo-flutter2"]
+	path = semaphore-demo-flutter2
+	url = https://github.com/semaphoreci-demos/semaphore-demo-flutter2
