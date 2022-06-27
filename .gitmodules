@@ -1,0 +1,3 @@
+[submodule "circleci_flutter"]
+	path = circleci_flutter
+	url = https://github.com/joshuadeguzman/circleci_flutter
